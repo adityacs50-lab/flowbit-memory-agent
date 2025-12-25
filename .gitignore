@@ -1,0 +1,13 @@
+node_modules/
+dist/
+*.db
+*.log
+.DS_Store
+*.tsbuildinfo
+# Memory JSON files (generated at runtime)
+data/vendor_memory.json
+data/correction_memory.json
+data/resolution_memory.json
+data/audit_log.json
+data/processed_invoices.json
+

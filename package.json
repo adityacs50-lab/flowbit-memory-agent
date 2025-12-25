@@ -1,0 +1,27 @@
+{
+  "name": "invoice-memory-learning-system",
+  "version": "1.0.0",
+  "description": "AI-powered invoice processing system with memory-driven learning",
+  "main": "demo.ts",
+  "scripts": {
+    "demo": "ts-node demo.ts",
+    "build": "tsc",
+    "start": "node dist/demo.js"
+  },
+  "keywords": [
+    "invoice",
+    "processing",
+    "ai",
+    "memory",
+    "learning"
+  ],
+  "author": "Aditya Shinde",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
+
